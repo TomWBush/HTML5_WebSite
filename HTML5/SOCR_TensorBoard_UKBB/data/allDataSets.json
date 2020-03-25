@@ -17,6 +17,157 @@
         ],      
         "tensorPath": "https://raw.githubusercontent.com/ljx0320/SOCRAT_DATA/master/processed_data/Antarctic_Ice_Thickness_tensor.tsv",
         "metadataPath": "https://raw.githubusercontent.com/ljx0320/SOCRAT_DATA/master/processed_data/Antarctic_Ice_Thickness_metadata.tsv"
+      },
+      {
+        "tensorName": "Baseball Players",
+        "tensorShape": [
+          1034, 
+          3
+        ],      
+        "tensorPath": "https://raw.githubusercontent.com/ljx0320/SOCRAT_DATA/master/processed_data/Baseball_Players_tensor.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/ljx0320/SOCRAT_DATA/master/processed_data/Baseball_Players_metadata.tsv"
+      },
+      {
+        "tensorName": "Predictive Big Data Analytics, Modeling, Analysis and Visualization of Clinical, Genetic and Imaging Data for Parkinson’s Disease",
+        "tensorShape": [
+          1128, 
+          32
+        ],      
+        "tensorPath": "https://raw.githubusercontent.com/ljx0320/SOCRAT_DATA/master/processed_data/BiomedBigMetadata_tensor.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/ljx0320/SOCRAT_DATA/master/processed_data/BiomedBigMetadata_metadata.tsv"
+      },
+      {
+        "tensorName": "California Ozone Pollution",
+        "tensorShape": [
+          175, 
+          6
+        ],      
+        "tensorPath": "https://raw.githubusercontent.com/ljx0320/SOCRAT_DATA/master/processed_data/California_Ozone_Pollution_tensor.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/ljx0320/SOCRAT_DATA/master/processed_data/California_Ozone_Pollution_metadata.tsv"
+      },
+      {
+        "tensorName": "California Ozone",
+        "tensorShape": [
+          540, 
+          22
+        ],      
+        "tensorPath": "https://raw.githubusercontent.com/ljx0320/SOCRAT_DATA/master/processed_data/California_Ozone_tensor.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/ljx0320/SOCRAT_DATA/master/processed_data/California_Ozone_metadata.tsv"
+      },
+      {
+        "tensorName": "Countries Rankings",
+        "tensorShape": [
+          100, 
+          8
+        ],      
+        "tensorPath": "https://raw.githubusercontent.com/ljx0320/SOCRAT_DATA/master/processed_data/Countries_Rankings_tensor.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/ljx0320/SOCRAT_DATA/master/processed_data/Countries_Rankings_metadata.tsv"
+      },
+      {
+        "tensorName": "CSCD/SOCR Diabetes Case-Study",
+        "tensorShape": [
+          24084, 
+          45
+        ],      
+        "tensorPath": "https://raw.githubusercontent.com/SOCR/HTML5_WebSite/master/HTML5/SOCR_TensorBoard_UKBB/data/Diabetes_features.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/SOCR/HTML5_WebSite/master/HTML5/SOCR_TensorBoard_UKBB/data/Diabetes_Readmissions.tsv"
+      },
+      {
+        "tensorName": "Ranking, Revenues and Profits of the Top Fortune500 Companies (1955-2008)",
+        "tensorShape": [
+          18000, 
+          4
+        ],      
+        "tensorPath": "https://raw.githubusercontent.com/ljx0320/SOCRAT_DATA/master/processed_data/Fortune500_tensor.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/ljx0320/SOCRAT_DATA/master/processed_data/Fortune500_metadata.tsv"
+      },
+      {
+        "tensorName": "Neuroimaging study of 27 of Global Cortical Surface Curvedness (27 AD, 35 NC and 42 MCI)",
+        "tensorShape": [
+          104, 
+          9
+        ],      
+        "tensorPath": "https://raw.githubusercontent.com/ljx0320/SOCRAT_DATA/master/processed_data/Global_Cortical_Surface_Curvedness_AD_NC_MCI_tensor.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/ljx0320/SOCRAT_DATA/master/processed_data/Global_Cortical_Surface_Curvedness_AD_NC_MCI_metadata.tsv"
+      },
+      {
+        "tensorName": "SOCR Heart Attack Data",
+        "tensorShape": [
+          12844, 
+          6
+        ],      
+        "tensorPath": "https://raw.githubusercontent.com/ljx0320/SOCRAT_DATA/master/processed_data/HeartAttacks_tensor.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/ljx0320/SOCRAT_DATA/master/processed_data/HeartAttacks_metadata.tsv"
+      },
+      {
+        "tensorName": "Iris Flower Dataset",
+        "tensorShape": [
+          150, 
+          4
+        ],      
+        "tensorPath": "https://raw.githubusercontent.com/ljx0320/SOCRAT_DATA/master/processed_data/iris_tensor.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/ljx0320/SOCRAT_DATA/master/processed_data/iris_metadata.tsv"
+      },
+      {
+        "tensorName": "Simulated SOCR Knee Pain Centroid Location Data",
+        "tensorShape": [
+          8666, 
+          2
+        ],      
+        "tensorPath": "https://raw.githubusercontent.com/ljx0320/SOCRAT_DATA/master/processed_data/knee_pain_data_tensor.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/ljx0320/SOCRAT_DATA/master/processed_data/knee_pain_data_metadata.tsv"
+      },
+      {
+        "tensorName": "Normal and Schizophrenia Neuroimaging Study of Children",
+        "tensorShape": [
+          63, 
+          66
+        ],      
+        "tensorPath": "https://raw.githubusercontent.com/ljx0320/SOCRAT_DATA/master/processed_data/SchizophreniaNeuroimaging_tensor.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/ljx0320/SOCRAT_DATA/master/processed_data/SchizophreniaNeuroimaging_metadata.tsv"
+      },
+      {
+        "tensorName": "SOCR Country Ranking Data",
+        "tensorShape": [
+          100, 
+          6
+        ],      
+        "tensorPath": "https://raw.githubusercontent.com/SOCR/HTML5_WebSite/master/HTML5/SOCR_TensorBoard_UKBB/data/SOCR_CountryRankingData.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/SOCR/HTML5_WebSite/master/HTML5/SOCR_TensorBoard_UKBB/data/SOCR_Top30Country_RankIndicatorLabel.tsv"
+      },
+      {
+        "tensorName": "SOCR UKBB Tensor Data",
+        "tensorShape": [
+            9914,
+            208
+        ],
+        "tensorPath": "https://raw.githubusercontent.com/SOCR/HTML5_WebSite/master/HTML5/SOCR_TensorBoard_UKBB/data/SOCR_UKBB_tensor.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/SOCR/HTML5_WebSite/master/HTML5/SOCR_TensorBoard_UKBB/data/SOCR_UKBB_Labels.tsv",
+        "sprite": {
+            "imagePath": "https://raw.githubusercontent.com/SOCR/HTML5_WebSite/master/HTML5/SOCR_TensorBoard_UKBB/data/SOCR_UKBB_Labels_Sprite_image.png",
+            "singleImageDim": [
+                28,
+                28
+            ]
+        }
+    },
+    {
+        "tensorName": "Turkiye Student Evaluation Data Set",
+        "tensorShape": [
+          5820, 
+          33
+        ],      
+        "tensorPath": "https://github.com/ljx0320/SOCRAT_DATA/blob/master/processed_data/Turkiye_Student_Evaluation_Data_Set_tensor.tsv",
+        "metadataPath": "https://github.com/ljx0320/SOCRAT_DATA/blob/master/processed_data/Turkiye_Student_Evaluation_Data_Set_metadata.tsv"
+      },
+      {
+        "tensorName": "US Ozone Pollution",
+        "tensorShape": [
+          175, 
+          3
+        ],      
+        "tensorPath": "https://raw.githubusercontent.com/ljx0320/SOCRAT_DATA/master/processed_data/US_Ozone_Pollution_tensor.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/ljx0320/SOCRAT_DATA/master/processed_data/US_Ozone_Pollution_metadata.tsv"
       }
     ]
   }
